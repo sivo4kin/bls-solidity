@@ -1,0 +1,3 @@
+[submodule "elliptic-curve-solidity"]
+	path = elliptic-curve-solidity
+	url = git@github.com:witnet/elliptic-curve-solidity.git
